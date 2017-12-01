@@ -1,0 +1,1 @@
+﻿shutdown -r -t 30
