@@ -185,7 +185,7 @@ namespace XzonControlPanel
 
         private static void HandleAutoStartup()
         {
-            bool launchOnStartup = "LaunchOnStartup".FromConfig().ToBool() ?? false;
+            bool launchOnStartup = "LaunchXzonOnBoot".FromConfig().ToBool() ?? false;
 
             try
             {
