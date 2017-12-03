@@ -9,6 +9,9 @@
 * Requires .NET Framework 4.5.2 (https://www.microsoft.com/en-us/download/details.aspx?id=42642) or greater
 * Requires Windows x64
 
+### Web Client:
+* Go to https://xzon.net and log into your channel
+
 ### To Compile:
 * Install Visual Studio
 * Download ```Source Code (zip)``` (https://github.com/xzonnet/XzonControlPanel/releases)
