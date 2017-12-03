@@ -54,7 +54,7 @@ namespace XzonControlPanel
         private static MinerConfig _currentMiningConfig;
         private static string MinerLocation => _currentMiningConfig?.ExeLocation;
         private static string MinerExe => Path.GetFileNameWithoutExtension(_currentMiningConfig?.ExeLocation);
-        private static string MinerCommandLineParameters => _currentMiningConfig?.CommandLineParameters;
+        private static string MinerCommandLineParameters => _currentMiningConfig?.CommandLineParameters ?? string.Empty;
         private static readonly Regex PoolRegex = new Regex(@"(\S*)\.(org|com|net|web|io):(\d{1,5})");
         private static string MiningPool
             =>
