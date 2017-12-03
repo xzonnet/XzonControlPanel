@@ -1,7 +1,7 @@
 # XzonControlPanel
 
 ### Latest Version:
-* Download standalone ```XzonControlPanel_v0.0.0_alpha_x64.zip``` file from the Releases page on GitHub (https://github.com/xzonnet/XzonControlPanel/releases)
+* Download standalone ```XzonControlPanel_v0.0.1_alpha_x64.zip``` file from the Releases page on GitHub (https://github.com/xzonnet/XzonControlPanel/releases)
 
 ### To Use:
 * Configure ```XzonControlPanel.exe.config``` in the download directory for desired settings
