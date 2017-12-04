@@ -23,3 +23,6 @@
 * Reddit (https://www.reddit.com/r/xzon/)
 * Gitter (https://gitter.im/xzonnet/xzonnet/)
 * Email (xzonnet @ gmail)
+
+### Open Hardware Monitor
+We use OpenHardwareMonitor's libraries which are under the ```Mozilla Public License 2.0```. Their github can be found at https://github.com/openhardwaremonitor/openhardwaremonitor, and their website is available at http://openhardwaremonitor.org/.
